@@ -16,7 +16,7 @@ I come from a creative background in music, so I'm always applying an out-of-the
 
 - 🔭  My current project is an online store application meant to expand my knowledge on React Routing and form validation with Formik and Yup.
   This project can be found here: https://github.com/Maxsawdust/rr-online-store
-  I've also been delving into writing simulations in JavaScript, and I hope to have a project up and going for that soon!
+  I've also been delving into writing simulations in JavaScript, and I've started to create a boids simulation here: https://github.com/Maxsawdust/boid-project.
   
 <!--
 **Maxsawdust/Maxsawdust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
